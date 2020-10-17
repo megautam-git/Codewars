@@ -31,7 +31,7 @@ public class Order {
     }
 
     public static void main(String[] args) {
-        
+
         System.out.println(setOrder("thi2s me5 is4"));
 
     }
