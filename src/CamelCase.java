@@ -21,4 +21,3 @@ public class CamelCase {
         System.out.println(camelCase("thisIsMe"));
     }
 }
-//\\p{Lu}
